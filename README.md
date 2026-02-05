@@ -5,7 +5,7 @@ git clone
 cd 
 
 # 3. Install dependencies
-npm install
+npm i  (npm install)
 
 # 4. Start the development server
 npm run dev
