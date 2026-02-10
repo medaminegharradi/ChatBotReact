@@ -2,7 +2,7 @@
 git clone 
 
 # 2. Go to the project folder
-cd 
+cd ChatBotReact
 
 # 3. Install dependencies
 npm i  (npm install)
