@@ -5,3 +5,4 @@
 "today 1" 
 "today 2" 
 "today 3" 
+"commit $i $(date)" 
