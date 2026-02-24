@@ -10,3 +10,4 @@
 "commit $i $(date)" 
 "another commit $(date +%s)" 
 "commit $i $(date)" 
+"update $i $(date +%s)" 
