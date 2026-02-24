@@ -1,1 +1,4 @@
 "change 1 $(date +%s)"  add .git commit -m "change 1"echo "change 2 $(date +%s)"  add .git commit -m "change 2"
+"extra 4 $(date +%s)"  add .git commit -m "extra 4"
+"extra 6 $(date +%s)"  add .git commit -m "extra 6"
+"extra 1 $(date +%s)"  add .git commit -m "extra 1"
